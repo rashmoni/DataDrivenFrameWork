@@ -1,5 +1,7 @@
 /target/
 /test-output/
+/.DS_Store
+/src
 !.mvn/wrapper/maven-wrapper.jar
 
 ### STS ###
